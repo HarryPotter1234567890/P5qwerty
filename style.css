@@ -1,0 +1,10 @@
+body{
+    margin-left:50px
+  }
+  input{
+  width: 25%;
+  }
+  canvas{
+    border: 3px ridge orange;
+    border-radius:10px;
+  }
